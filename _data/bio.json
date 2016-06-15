@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4445",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "name": "Philip Johnson",
+    "label": "Professor",
+    "picture": "https://philipmjohnson.github.io/images/molly.png",
+    "email": "johnson@hawaii.edu",
+    "phone": "808-956-3489",
+    "website": "https://philipmjohnson.github.io",
+    "summary": "I am a Professor of Information and Computer Sciences at the University of Hawaii at Manoa",
     "location": {
-      "address": "",
+      "address": "1680 East-West Rd. POST 307",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,34 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "philipmjohnson",
+        "url": "http://github.com/philipmjohnson"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "philipmjohnson",
+        "url": "http://linkedin.com/in/philipmjohnson"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "gamification",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "sustainability",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "power quality",
       "keywords": [
       ]
     }
