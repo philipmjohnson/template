@@ -52,18 +52,47 @@
       "summary": "Co-founder and leader of technical development",
       "highlights": [
       ]
+    },
+    {
+      "company": "Blekinge Institute of Technology",
+      "position": "Visiting Professor",
+      "website": "https://www.bth.se/eng/",
+      "startDate": "2006-08-01",
+      "summary": "School of Engineering",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "University of Queensland",
+      "position": "Senior Research Fellow",
+      "website": "https://www.bth.se/eng/",
+      "startDate": "2006-05-01",
+      "summary": "Distributed Systems Technology Centre",
+      "highlights": [
+      ]
     }
   
   ],
   "volunteer": [
     {
       "organization": "",
-      "position": "Editorial Board",
+      "position": "Editorial Boards",
       "summary": "",
       "highlights": [
         "Journal of Empirical Software Engineering, 2004-2008",
         "IEEE Transactions on Software Engineering, 2000-2004",
         "International Journal of Computer Supported Cooperative Work, 1997-2004"
+      ]
+    },
+    {
+      "organization": "",
+      "position": "Industrial Boards",
+      "summary": "",
+      "highlights": [
+        "Member, Technical Advisory Board, Sixth Sense Analytics, 2006-2009",
+        "Member, Board of Directors, Hawaii Strategic Development Corporation, 2006-2009",
+        "Member, Board of Directors, LavaNet, Inc., 2002-2005",
+        "Member, Board of Directors, High Technology Development Corporation, 2000-2004"
       ]
     },
     {
@@ -77,6 +106,17 @@
         "Software Architectures for Cooperative Systems Workshop, ACM Conference on Computer Supported Cooperative Work, 1994",
         "CSCW Tools and Technologies Workshop, European Conference on Computer Supported Cooperative Work, 1993",
         "CSCW Tools and Technologies Workshop, ACM Conference on Computer Supported Cooperative Work, 1992"
+      ]
+    },
+    {
+      "organization": "International Software Engineering Research Network (ISERN)",
+      "position": "Member",
+      "website": "http://isern.iese.de/Portal/",
+      "startDate": "1996-05-01",
+      "endDate": "2010-06-01",
+      "summary": "",
+      "highlights": [
+        "Collaborated on software metrics and software development behavioral research."
       ]
     }
   ],
@@ -129,12 +169,57 @@
       "summary": ""
     },
     {
+      "name": "Searching under the streetlight for useful software analytics",
+      "author": "P. Johnson",
+      "type": "journal",
+      "publisher": "IEEE Software",
+      "releaseDate": "Volume 30, No. 4, July, 2013",
+      "website": "",
+      "summary": ""
+    },
+    {
       "name": "An athletic approach to software engineering education",
       "author": "P.Johnson, D.Port, E.Hill",
       "type": "conference",
       "publisher": "Proceedings of the 29th IEEE Conference on Software Engineering Education and Training",
       "releaseDate": "Dallas, TX, April, 2016",
       "website": "http://csdl.ics.hawaii.edu/techreports/2016/16-01/16-01.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Makahiki: An open source serious game framework for sustainability education and conservation",
+      "author": "Y. Xu, P. Johnson, G. Lee, C. Moore, R. Brewer",
+      "type": "conference",
+      "publisher": "Proceedings of the 2014 International Conference on Sustainability, Technology, and Education",
+      "releaseDate": "New Taipei City, Taiwan, December, 2014",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2014/14-10/14-10.pdf",
+      "summary": ""
+    },
+    {
+      "name": "SGSEAM: Assessing serious game frameworks from a stakeholder experience perspective",
+      "author": "Y. Xu, P. Johnson, C. Moore, R. Brewer, J. Takayama",
+      "type": "conference",
+      "publisher": "Proceedings of the First International Conference on Gameful Design, Research, and Applications",
+      "releaseDate": "Stratford, Ontario, Canada, October 2013",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2013/13-03/13-03.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Energy feedback for smart grid consumers: Lessons learned from the Kukui Cup",
+      "author": "R. Brewer, Y. Xu, G. Lee, M. Katchuck, C. Moore, P. Johnson",
+      "type": "conference",
+      "publisher": "Proceedings of Energy 2013",
+      "releaseDate": "Lisbon, Portugal, March 2013",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2012/12-12/12-12.pdf",
+      "summary": ""
+    },
+    {
+      "name": "Makahiki+WattDepot: An open source software stack for next generation energy research and education",
+      "author": "P. Johnson, Y. Xu, R. Brewer, C. Moore, G. Lee, A. Connell",
+      "type": "conference",
+      "publisher": "Proceedings of the 2013 Conference on Information and Communication Technologies for Sustainability",
+      "releaseDate": "Zurich, Switzerland, February 2013",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2012/12-06/12-06.pdf",
       "summary": ""
     },
     {
@@ -154,6 +239,34 @@
       "date": "",
       "awarder": "National Science Foundation",
       "summary": "P. Johnson, Principal Investigator. $413,467. 2010-2014"
+    },
+    {
+      "type": "grant",
+      "title": "Supporting next generation energy education with the Kukui Cup",
+      "date": "",
+      "awarder": "HEI Charitable Foundation",
+      "summary": "P. Johnson, Principal Investigator. $10,777. 2012"
+    },
+    {
+      "type": "grant",
+      "title": "Sponsorship of the 2011 Kukui Cup",
+      "date": "",
+      "awarder": "Hawaii State Department of Business, Economic Development, and Tourism",
+      "summary": "P. Johnson, Principal Investigator. $5,000. 2012"
+    },
+    {
+      "type": "grant",
+      "title": "Renewable energy and island sustainability",
+      "date": "",
+      "awarder": "University of Hawaii",
+      "summary": "Principal Investigator: T. Kuh; Co-Principal Investigators: O. Boric-Lubecke, B. Chao, M. Coffman, D. Garmire, M.Nejhad, R. Ghorbani, P. Johnson, A. Kavcic, D. Konan, B. Liaw, E. Miller, W. Qu, M. Teng, X. Zhou. $1,000,000. 2009-2011"
+    },
+    {
+      "type": "grant",
+      "title": "Google Summer of Code: Hackystat",
+      "date": "",
+      "awarder": "Google, Inc.",
+      "summary": "P. Johnson, Principal Investigator. $45,000. 2008-2009"
     }
   ],
   "skills": [
