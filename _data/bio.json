@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "philipmjohnson",
         "url": "http://linkedin.com/in/philipmjohnson"
-      },
-      {
-        "network": "facebook",
-        "username": "philipmeadowsjohnson",
-        "url": "http://facebook.com/philipmeadowsjohnson"
-      },
-      {
-        "network": "twitter",
-        "username": "philipmjohnson",
-        "url": "http://twitter.com/philipmjohnson"
       }
     ]
   },
@@ -62,25 +52,8 @@
       "summary": "Co-founder and leader of technical development",
       "highlights": [
       ]
-    },
-    {
-      "company": "Blekinge Institute of Technology",
-      "position": "Visiting Professor",
-      "website": "https://www.bth.se/eng/",
-      "startDate": "2006-08-01",
-      "summary": "School of Engineering",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "University of Queensland",
-      "position": "Senior Research Fellow",
-      "website": "https://www.bth.se/eng/",
-      "startDate": "2006-05-01",
-      "summary": "Distributed Systems Technology Centre",
-      "highlights": [
-      ]
     }
+  
   ],
   "volunteer": [
     {
@@ -104,17 +77,6 @@
         "Software Architectures for Cooperative Systems Workshop, ACM Conference on Computer Supported Cooperative Work, 1994",
         "CSCW Tools and Technologies Workshop, European Conference on Computer Supported Cooperative Work, 1993",
         "CSCW Tools and Technologies Workshop, ACM Conference on Computer Supported Cooperative Work, 1992"
-      ]
-    },
-    {
-      "organization": "International Software Engineering Research Network (ISERN)",
-      "position": "Member",
-      "website": "http://isern.iese.de/Portal/",
-      "startDate": "1996-05-01",
-      "endDate": "2010-06-01",
-      "summary": "",
-      "highlights": [
-        "Collaborated on software metrics and software development behavioral research."
       ]
     }
   ],
@@ -192,13 +154,6 @@
       "date": "",
       "awarder": "National Science Foundation",
       "summary": "P. Johnson, Principal Investigator. $413,467. 2010-2014"
-    },
-    {
-      "type": "",
-      "title": "Coach of the Year",
-      "date": "2005-08-01",
-      "awarder": "Kailua AYSO",
-      "summary": ""
     }
   ],
   "skills": [
@@ -208,14 +163,7 @@
       "keywords": [
         "Java",
         "Javascript",
-        "C",
-        "C++",
-        "Assembly",
-        "Meteor",
-        "HTML",
-        "CSS",
-        "Semantic UI",
-        "Node.js"
+        "Meteor"
       ]
     },
     {
@@ -223,8 +171,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Windows",
-        "Ubuntu",
+        "Unix",
         "Git/GitHub",
         "g++",
         "Emacs"
@@ -254,7 +201,7 @@
       "name": "Renewable Energy",
       "keywords": [
         "power quality",
-        "energy data collection, analysis, and visualization"
+        "energy analytics"
       ]
     }
   ],
