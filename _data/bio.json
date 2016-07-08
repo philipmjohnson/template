@@ -6,7 +6,7 @@
     "email": "johnson@hawaii.edu",
     "phone": "808-956-3489",
     "website": "https://philipmjohnson.github.io",
-    "summary": "I am a Professor of Information and Computer Sciences at the University of Hawaii, Director of the Collaborative Software Development Laboratory, and CEO of OpenPowerQuality.com.",
+    "summary": "I am a Professor of [Information and Computer Sciences](http://www.ics.hawaii.edu) at the University of Hawaii, Director of the [Collaborative Software Development Laboratory](http://csdl.ics.hawaii.edu), and CEO of [OpenPowerQuality.com](http://openpowerquality.com).",
     "location": {
       "address": "1680 East-West Rd, POST 307",
       "postalCode": "96822",
@@ -65,7 +65,6 @@
     {
       "company": "University of Queensland",
       "position": "Senior Research Fellow",
-      "website": "https://www.bth.se/eng/",
       "startDate": "2006-05-01",
       "summary": "Distributed Systems Technology Centre",
       "highlights": [
@@ -193,15 +192,6 @@
       "publisher": "IEEE Software",
       "releaseDate": "Volume 30, No. 4, July, 2013",
       "website": "",
-      "summary": ""
-    },
-    {
-      "name": "An athletic approach to software engineering education",
-      "author": "P.Johnson, D.Port, E.Hill",
-      "type": "conference",
-      "publisher": "Proceedings of the 29th IEEE Conference on Software Engineering Education and Training",
-      "releaseDate": "Dallas, TX, April, 2016",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2016/16-01/16-01.pdf",
       "summary": ""
     },
     {

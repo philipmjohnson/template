@@ -1,9 +1,16 @@
 <div style="padding-top: 20px" class="ui container ">
+  {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
 
   <div class="ui stackable centered four cards">
-    {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
       {% for page in essay_pages %}
         {% include essay-card-pj.html page=page %}
+        {% if forloop.index == include.limit %}
+          {% break %}
+        {% endif %}
       {% endfor %}
   </div>
+
+  {% if essay_pages.size > include.limit %}
+    <p style="text-align: center; padding: 20px"><a href="{{ site.baseurl}}/essays/all.html">See all essays</a></p>
+  {% endif %}
 </div>
