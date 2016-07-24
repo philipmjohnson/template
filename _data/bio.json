@@ -150,6 +150,15 @@
   ],
   "publications": [
     {
+      "name": "Design and evaluation of the Makahiki open source serious game framework for sustainability education",
+      "type": "bookchapter",
+      "author": "Y. Xu, P.  Johnson, G. Lee, C. Moore, and R. Brewer",
+      "publisher": "In: Sustainability, Green IT and Education Strategies in the 21st Century",
+      "releaseDate": "September, 2016",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2016/16-03/16-03.pdf",
+      "summary": ""
+    },
+    {
       "name": "OpenPowerQuality: An Open Source Framework for Power Quality Collection, Analysis, Visualization, and Privacy",
       "type": "conference",
       "author": "A. Christe, S. Negrashov, P. Johnson",
