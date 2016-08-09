@@ -1,8 +1,8 @@
 <!-- Home page design with small circular image bisecting card. -->
 
-{% assign essay_pages = site.pages | where: "type", "essay" %}
-{% assign num_essays = essay_pages.size %}
+{% assign essay_pages = site.pages | where: "type", "essay"  %}
 {% assign project_pages = site.pages | where: "type", "project" %}
+{% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
 <div style="height: 100%; margin-top: -100px" class="ui middle aligned grid ">
