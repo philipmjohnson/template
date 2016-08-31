@@ -5,7 +5,7 @@ published: true
 image: images/hackystat.png
 title: Hackystat
 permalink: projects/hackystat
-date: 2001-2010
+date: 2001
 labels:
   - Java
   - Software Metrics

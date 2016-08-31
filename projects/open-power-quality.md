@@ -5,7 +5,7 @@ published: true
 image: images/opqbox-2.5.jpg
 title: Open Power Quality
 permalink: projects/openpowerquality
-date: 2013-present
+date: 2013
 labels:
   - Raspberry PI
   - Meteor

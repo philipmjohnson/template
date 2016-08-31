@@ -5,7 +5,7 @@ published: true
 image: images/radgrad.png
 title: RadGrad
 permalink: projects/radgrad
-date: 2016-present
+date: 2016
 labels:
   - Meteor
   - Semantic UI

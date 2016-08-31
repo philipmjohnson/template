@@ -5,7 +5,7 @@ published: true
 image: images/techfoliologo.png
 title: Techfolios
 permalink: projects/morea-framework
-date: 2016-present
+date: 2016
 labels:
   - Jekyll
   - GitHub Pages

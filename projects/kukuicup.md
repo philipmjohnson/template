@@ -5,7 +5,7 @@ published: true
 image: images/kukuicup.jpg
 title: Kukui Cup
 permalink: projects/kukuicup
-date: 2010-2014
+date: 2010
 labels:
   - Python
   - Django

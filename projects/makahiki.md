@@ -5,7 +5,7 @@ published: true
 image: images/makahiki.png
 title: Makahiki
 permalink: projects/makahiki
-date: 2009-2015
+date: 2009
 labels:
   - Python
   - Django

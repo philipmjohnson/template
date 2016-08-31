@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/wattdepot.png
-date: 2009-present
+date: 2009
 title: WattDepot
 permalink: projects/wattdepot
 labels:
