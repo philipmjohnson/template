@@ -5,7 +5,7 @@ published: true
 image: images/morea-framework.png
 title: Morea Framework
 permalink: projects/morea-framework
-date: 2013-present
+date: 2015
 labels:
   - Jekyll
   - GitHub Pages
