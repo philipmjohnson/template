@@ -5,3 +5,4 @@ template.iml
 _site/
 .sass-cache/
 *.iml
+.DS_Store
