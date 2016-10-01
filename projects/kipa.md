@@ -9,6 +9,6 @@ date: 2016
 labels:
   - Meteor
   - Semantic UI
-summary: Kipa is a responsive, reactive visitor scheduling system developed for Oahu Community Correctional Center (OCCC) as part of the 2016 Hawaii Annual Code Challenge (HACC). 
+summary: A responsive, reactive visitor scheduling system developed for Oahu Community Correctional Center (OCCC) as part of the 2016 Hawaii Annual Code Challenge (HACC). 
 projecturl: https://hacc2016.github.io/teamkipa/
 ---
