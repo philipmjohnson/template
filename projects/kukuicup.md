@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/kukuicup.jpg
-title: Kukui Cup
+title: Kukui Cup: The Semantic UI Version
 permalink: projects/kukuicup
 date: 2010
 labels:
