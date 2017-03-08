@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Energy Excelerator 2014
+title: "Energy Excelerator: 2014"
 date: 2014-02-04
 labels:
   - Startups
