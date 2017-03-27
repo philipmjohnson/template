@@ -9,7 +9,7 @@ date: 2001
 labels:
   - Java
   - Software Metrics
-summary: Hackystat is an open source framework for collection, analysis, visualization, interpretation, annotation, and dissemination of software development process and product data.
+summary: An open source framework for collection, analysis, visualization, interpretation, annotation, and dissemination of software development process and product data.
 ---
 
 Hackystat is an open source framework for collection, analysis, visualization, interpretation, annotation, and dissemination of software development process and product data.

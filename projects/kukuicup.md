@@ -11,7 +11,7 @@ labels:
   - Django
   - WattDepot
   - Serious Games
-summary: The Kukui Cup project explores how information technology, serious games, and educational pedagogy can support long-term change in sustainability-related behaviors.
+summary: Explores how information technology, serious games, and educational pedagogy can support long-term change in sustainability-related behaviors.
 projecturl: http://kukuicup.org
 ---
 
