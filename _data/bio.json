@@ -150,6 +150,15 @@
   ],
   "publications": [
     {
+      "name": "OPQ Version 2: An Architecture for Distributed, Real-Time, High Performance Power Data Acquisition, Analysis, and Visualization",
+      "type": "conference",
+      "author": "A. Christe, S. Negrashov, P. Johnson, D. Nakahodo, D. Badke, and D. Aghalarpour",
+      "publisher": "Proceedings of the Seventh Annual IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems",
+      "releaseDate": "July, 2017",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2017/17-03/17-03.pdf",
+      "summary": ""
+    },
+    {
       "name": "Design and evaluation of the Makahiki open source serious game framework for sustainability education",
       "type": "bookchapter",
       "author": "Y. Xu, P.  Johnson, G. Lee, C. Moore, and R. Brewer",
