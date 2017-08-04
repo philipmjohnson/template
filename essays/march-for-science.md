@@ -2,13 +2,17 @@
 layout: essay
 type: essay
 published: false
-title: March for Science Hawaii---A newbie guide to putting on a demonstration
+title: A newbie guide to organizing your first demonstration
 date: 2017-08-01
 labels:
-  - March for science
+  - March for Science
 ---
   
-In Spring of 2017, I was a member of a six person executive committee that produced the March for Science in Honolulu, HI.  We organized the march in less than two months, created an organizing committee of over 70 people, had a verified attendence of over 2500 people on the day of the march, and ended the day with a budget surplus of $4,000 with which we are creating a science educator grant program.  We accomplished this despite the fact that absolutely no one on the executive committee had ever organized a demonstration or had any political organizing experience. 
+<div style="margin-bottom: 10px" class="ui embed" data-source="youtube" data-id="Cq182LoxpOk" >
+</div>
+In Spring of 2017, I was part of a seven person executive committee that produced the [March for Science--Hawaii](http://marchforsciencehawaii.info/).  Without any prior experience, we developed an organizing committee of over 70 people, had a verified attendence of over 2500 people on the day of the march, and ended the day with a budget surplus of $4,000 with which we are creating a science educator grant program.  Because we were learning while we were doing, we made a variety of mistakes along the way, even though the march was ultimately a success and exceeded our expectations.
+
+I got involved with the March for Science not because I knew how to organize a demonstration, but because I felt compelled by its mission to participate. For those of you who find yourself in a similar situation, I would like to offer the following tips to help you bootstrap your efforts successfully. 
 
 Discuss organization: executive committee, subcommittees.
 You need more than email. We used Slack.
