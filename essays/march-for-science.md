@@ -13,7 +13,7 @@ labels:
 
 In Spring of 2017, I was one of a seven person executive committee that led the organization of the March for Science--Hawaii.  Without any prior experience and over the course of ten weeks, we developed an organizing committee of over 70 people, verified the attendence of over 2700 people on the day of the march, and ended the day with a budget surplus of $4,000 which we will use to provide grants to science educators.  Because we were learning while we were doing, we made a variety of mistakes along the way, even though the march was ultimately a success and exceeded our expectations.
 
-I decided to help organize the March for Science not because I knew anything about how to do it, but because the mission was compelling. For those of you who find yourself in a similar situation, I would like to offer the following four tips to help you bootstrap your efforts successfully. 
+I decided to help organize the March for Science not because I knew anything about organizing, but because the mission was personally compelling. For those of you who find yourself in a similar situation, I would like to offer the following four tips to help you bootstrap your efforts successfully. 
 
 ### 1. Grow yourself a large organizing committee
 
