@@ -41,7 +41,7 @@ In retrospect, I think that Tips 1 and 2 are intimately related: you simply cann
 
 ### 3. Raise funds the easy way
 
-Our joint cluelessness really manifested itself during early discussions about fund raising.  We knew we needed money for (among other things): liability insurance; tents and staging; posters, signs, and other promotional material, and other things that might come up depending upon the location (porta potties?). But we didn't know exactly how much, and we didn't know how to get it, or even what to do with it once we got it.  We discussed a kickstarter campaign, bake sales (yes, I'm serious), selling buttons, and other innocently suggested but ultimately naive ideas. 
+Our collective cluelessness really manifested itself during early discussions about fund raising.  We knew we needed money for (among other things): liability insurance; tents and staging; posters, signs, and other promotional material, and other things that might come up depending upon the location (porta potties?). But we didn't know exactly how much, and we didn't know how to get it, or even what to do with it once we got it.  We discussed a kickstarter campaign, bake sales (yes, I'm serious), selling buttons, and other innocently suggested but ultimately naive ideas. 
 
 After a really significant amount of time spent on non-starters, here's what worked amazingly well:
 
@@ -70,8 +70,10 @@ Three students then counted the number of marchers shown in the video four times
 
 ### Conclusions
 
-Helping organize the March for Science turned out to be a wonderful experience for me. I met lots of nice people and went to a lot of meetings that were unusually interesting, fun, and productive. Most of all, I helped provide an opportunity for 2700 people on Oahu to show up and physically demonstrate their support for the scientific process as a critical way to provide evidence-based decision making. 
+Helping organize the March for Science turned out to be a wonderful experience for me. I met lots of nice people and went to a lot of meetings that were interesting, fun, and productive. Most of all, I helped provide an opportunity for 2700 people on Oahu to physically demonstrate their support for the scientific process as a critical way to provide evidence-based decision making. 
 
 If you've got a cause that's really important to you, don't hold back from taking a leadership role because you don't know what you're doing.  Just throw yourself into it, do your best, and hope for the best. Sometimes the results will totally surprise you. 
 
-*Many, many thanks to the other members of the March for Science Executive Committee: Emily Gaskin, Grant Yamashita, Stephanie Wilson, Elisha Wood-Charlson, Dylan Davis, Brooks Bays, and especially our fearless leader, [Helen Spafford](https://twitter.com/profspaff/status/865401967639527426). Thanks also the other 70+ members of the March for Science organizing committee without whom this event would not have been nearly as successful.*
+*Many, many thanks to the other members of the March for Science Executive Committee: Emily Gaskin, Grant Yamashita, Stephanie Wilson, Elisha Wood-Charlson, Dylan Davis, Brooks Bays, and especially our fearless leader, [Helen Spafford](https://twitter.com/profspaff/status/865401967639527426). Thanks also to the other 70+ members of the March for Science organizing committee without whom this event would not have been successful.*
+
+*For more information about March for Science Hawaii, please see [our website](http://marchforsciencehawaii.info/).*
