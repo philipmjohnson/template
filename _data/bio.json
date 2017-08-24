@@ -8,7 +8,7 @@
     "website": "https://philipmjohnson.github.io",
     "summary": "I am a Professor of [Information and Computer Sciences](http://www.ics.hawaii.edu) at the University of Hawaii, Director of the [Collaborative Software Development Laboratory](http://csdl.ics.hawaii.edu), and the CEO of [OpenPowerQuality.com](http://openpowerquality.com).",
     "location": {
-      "address": "1680 East-West Rd, POST 307",
+      "address": "1680 East-West Rd, POST 307A",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -50,8 +50,7 @@
       "startDate": "2013-01-01",
       "endDate": "Present",
       "summary": "Co-founder and leader of technical development",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Blekinge Institute of Technology",
@@ -59,18 +58,15 @@
       "website": "https://www.bth.se/eng/",
       "startDate": "2006-08-01",
       "summary": "School of Engineering",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "University of Queensland",
       "position": "Senior Research Fellow",
       "startDate": "2006-05-01",
       "summary": "Distributed Systems Technology Centre",
-      "highlights": [
-      ]
+      "highlights": []
     }
-  
   ],
   "volunteer": [
     {
@@ -126,8 +122,7 @@
       "studyType": "Ph.D.",
       "endDate": "1990-08-01",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Massachusetts, Amherst, MA",
@@ -135,8 +130,7 @@
       "studyType": "M.S.",
       "endDate": "1985-06-01",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "University of Michigan, Ann Arbor, MI",
@@ -144,8 +138,7 @@
       "studyType": "B.S.",
       "endDate": "1980-05-01",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "publications": [
@@ -333,8 +326,7 @@
     },
     {
       "name": "Serious Games",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Renewable Energy",
