@@ -10,7 +10,7 @@ labels:
 
 Last summer, I speculated about an "athletic" approach to teaching software engineering, including:
 
-* A [flipped](http://en.wikipedia.org/wiki/Flip_teaching): lectures are online, freeing up class time for other activities.
+* A [flipped](http://en.wikipedia.org/wiki/Flip_teaching) classroom: lectures are online, freeing up class time for other activities.
 * A primary focus on *skill* acquisition, and a secondary focus on *concept* acquisition. For example, rather than assess the ability of students to explain the difference between white box and black box testing, the approach assesses their ability to implement white box (or black box) testing.
 * An emphasis on *fluency*, as measured by the time to complete tasks correctly. For example, given the task of writing a test case to verify that a system exhibits a specific behavior, students are evaluated on their ability to implement it *quickly*, as well as their ability to implement it *correctly*. This elevation of speed to a first class component of the pedagogy gives the class its "athletic" feeling.
 

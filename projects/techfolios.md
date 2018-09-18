@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/techfoliologo.png
 title: Techfolios
-permalink: projects/morea-framework
+permalink: projects/techfolios
 date: 2016
 labels:
   - Jekyll
