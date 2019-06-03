@@ -143,6 +143,15 @@
   ],
   "publications": [
     {
+      "name": "A transient classification system implementation on an open source distributed power quality network",
+      "type": "conference",
+      "author": "Charles Dickens, Anthony J. Christe, and Philip M. Johnson",
+      "publisher": "Proceedings of the Ninth International Conference on Smart Grids, Green Communications and IT Energy-aware Technologies",
+      "releaseDate": "June, 2019",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-02/19-02.pdf",
+      "summary": ""
+    },
+    {
       "name": "OPQ Version 2: An Architecture for Distributed, Real-Time, High Performance Power Data Acquisition, Analysis, and Visualization",
       "type": "conference",
       "author": "A. Christe, S. Negrashov, P. Johnson, D. Nakahodo, D. Badke, and D. Aghalarpour",
@@ -253,6 +262,13 @@
   ],
   "awards": [
     {
+      "type": "award",
+      "title": "Board of Regents Medal for Excellence in Teaching",
+      "date": "June, 2019",
+      "awarder": "University of Hawaii",
+      "summary": ""
+    },
+    {
       "type": "grant",
       "title": "Using Degree Experience Plans to Improve Engagement, Retention, and Diversity of Undergraduates in Computer Science",
       "date": "",
@@ -331,6 +347,10 @@
     }
   ],
   "interests": [
+    {
+      "name": "Climate Change",
+      "keywords": []
+    },
     {
       "name": "Software Engineering",
       "keywords": [
