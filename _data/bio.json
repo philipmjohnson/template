@@ -143,6 +143,15 @@
   ],
   "publications": [
     {
+      "name": "Design and evaluation of an athletic approach to software engineering education",
+      "type": "journal",
+      "author": "Philip M. Johnson",
+      "publisher": "ACM Transactions on Computing Education",
+      "releaseDate": "August, 2019",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-03/19-03.pdf",
+      "summary": ""
+    },
+    {
       "name": "A transient classification system implementation on an open source distributed power quality network",
       "type": "conference",
       "author": "Charles Dickens, Anthony J. Christe, and Philip M. Johnson",
