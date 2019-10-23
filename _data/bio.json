@@ -143,6 +143,15 @@
   ],
   "publications": [
     {
+      "name": "RadGrad: Removing the 'Extra' from Extracurricular to Improve Student Engagement, Retention, and Diversity",
+      "type": "conference",
+      "author": "Philip M. Johnson, Carleton A. Moore, Peter Leong, Seungoh Paek",
+      "publisher": "Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE 2020)",
+      "releaseDate": "March, 2020",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-04/19-04.pdf",
+      "summary": ""
+    },
+    {
       "name": "Design and evaluation of an athletic approach to software engineering education",
       "type": "journal",
       "author": "Philip M. Johnson",
@@ -224,30 +233,12 @@
       "summary": ""
     },
     {
-      "name": "Makahiki: An open source serious game framework for sustainability education and conservation",
-      "author": "Y. Xu, P. Johnson, G. Lee, C. Moore, R. Brewer",
-      "type": "conference",
-      "publisher": "Proceedings of the 2014 International Conference on Sustainability, Technology, and Education",
-      "releaseDate": "New Taipei City, Taiwan, December, 2014",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2014/14-10/14-10.pdf",
-      "summary": ""
-    },
-    {
       "name": "SGSEAM: Assessing serious game frameworks from a stakeholder experience perspective",
       "author": "Y. Xu, P. Johnson, C. Moore, R. Brewer, J. Takayama",
       "type": "conference",
       "publisher": "Proceedings of the First International Conference on Gameful Design, Research, and Applications",
       "releaseDate": "Stratford, Ontario, Canada, October 2013",
       "website": "http://csdl.ics.hawaii.edu/techreports/2013/13-03/13-03.pdf",
-      "summary": ""
-    },
-    {
-      "name": "Energy feedback for smart grid consumers: Lessons learned from the Kukui Cup",
-      "author": "R. Brewer, Y. Xu, G. Lee, M. Katchuck, C. Moore, P. Johnson",
-      "type": "conference",
-      "publisher": "Proceedings of Energy 2013",
-      "releaseDate": "Lisbon, Portugal, March 2013",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2012/12-12/12-12.pdf",
       "summary": ""
     },
     {
