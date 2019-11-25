@@ -45,21 +45,21 @@ A high quality portfolio is not just important for industry. As someone who has 
 
 Hopefully you are now convinced that it is in your best interest to create a high quality Ph.D. portfolio.  But how do you do that? Here are some tips based upon high quality (and not so high quality) portfolios that I've seen in the past.
 
-**1. Your portfolio site should either use Techfolios, or use something even better.**  One of the perks of being a Ph.D. is to work at institutions with a relaxed (or non-existent) dress code.  That said, some standards do apply to the initial interview process.  If you show up to your interview in cut-off shorts and a torn Nirvana concert t-shirt, you might be perceived negatively by the organization, even if you could get away with this attire once you have (say) have generated $10M in research funding for them.
+**1. Your portfolio site should either use Techfolios, or use something even better.**  One of the perks of being a Ph.D. is to work at institutions with a relaxed (or non-existent) dress code.  That said, some standards do apply to the initial interview process.  If you show up to your interview in cut-off shorts and a torn Nirvana concert t-shirt, you might be perceived negatively by the organization, even if you could get away with this attire once you have (say) generated $10M in research funding for them.
 
 Similarly, to be high quality, your portfolio site should achieve at least "business casual" style. It should use modern best practices for presentation and typography as implemented in frameworks like Bootstrap, Semantic UI, Material, etc.  This can pose a problem if you have little experience with modern web application development and UI Frameworks.
 
 To minimize the barriers to achieving a business casual portfolio site, I created [TechFolios](http://techfolios.github.io/), and you can see examples of graduate student portfolios [here](https://ics-portfolios.github.io/graduatestudents/). I recommend [Anthony Christe's portfolio](https://anthonyjchriste.github.io/) as a good example of a high quality Ph.D. portfolio site.
 
-Some of you might have the skills to create a better portfolio site, and that is a great alternative. But a single index.html file containing only vanilla HTML, while satisfying the mimimal requirements for the portfolio, does not achieve "high quality".  Instead, it calls into question your capabilities as a Ph.D. in Computer Science---is that literally the best you are capable of?
+Some of you might have the skills to create a better portfolio site, and that is a great alternative if you have them. But if you don't, then don't think a single index.html file containing only vanilla HTML is "high quality".  Quite the opposite, as it calls into question your capabilities as a Ph.D. in Computer Science---is that literally the best you are capable of?
 
 **2. Use markdown when appropriate, and PDF links when appropriate.**
 
 The portfolio requirements include several short 1-2 page essays.  For maximum usability, please compose these statements as markdown so that they can be read on laptops, tablets, and smart phones.  For example, here is [Anthony Christe's Statement of Purpose](https://anthonyjchriste.github.io/essays/statement-of-purpose.html).
 
-For short essays, don't create a PDF which we must then download and then open in a PDF reader.  During a recent review, some faculty were actually unable to open a student's statement because that student used PDF and the faculty member's tablet was unable to display it.a
+In general, for short essays, don't create a PDF which we must then download and then open in a PDF reader.  During a recent review, some faculty were actually unable to open a student's statement because that student used PDF and the faculty member's tablet was unable to display it.a
 
-On the other hand, long documents such as literature reviews and conference/journal submissions are more appropriate as PDF. In this case, you can create an "essay" file in TechFolios and use the "essayurl" field in the header area to indicate that this entry should link directly to another file. For example, here is one of my essay files which links directly to another site (in this case, a Medium essay, but it could have been a pdf):
+On the other hand, long documents such as literature reviews and conference/journal submissions are more appropriate as PDF. In this case, you can create an "essay" file in TechFolios and use the "essayurl" field in the header area to indicate that this entry should link directly to another file. For example, here is one of my essay files which links directly to another URL (in this case, a Medium essay, but it could have been a pdf):
 
 ```
 ---
@@ -80,7 +80,7 @@ A summary of my experiences teaching Meteor as part of an introductory software 
 
 We recently reviewed a literature review which was a structural mess: the citation numbers went to references to the wrong articles, the font changed unpredictably during the paper, and there were misspellings and grammatical errors throughout.
 
-A simple solution to this is to use LaTeX, which is tailor-made for CS publications and theses. Indeed, ICS graduate students developed a [LaTeX thesis style](https://github.com/rbrewer/latex-uhm-thesis).
+A simple solution to this is to use LaTeX, which is tailor-made for CS publications and theses, in combination with a spell checker. Indeed, ICS graduate students developed a [LaTeX thesis style](https://github.com/rbrewer/latex-uhm-thesis).
 
 Using LaTeX has many advantages. You can build a library of references and store them in a BibTex file, then cite them easily in multiple papers.  Virtually all conferences and journals in computer science accept LaTeX, and most provide a theme file that enables you to satisfy their formatting criteria trivially.
 
