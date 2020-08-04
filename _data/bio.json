@@ -143,6 +143,15 @@
   ],
   "publications": [
     {
+      "name": "Design, Implementation, and Evaluation of Open Power Quality",
+      "type": "journal",
+      "author": "Anthony J. Christe, Sergey Negrashov, and Philip M. Johnson",
+      "publisher": "Energies 13(15)",
+      "releaseDate": "August, 2020",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2020/20-07/20-07.pdf",
+      "summary": ""
+    },
+    {
       "name": "RadGrad: Removing the 'Extra' from Extracurricular to Improve Student Engagement, Retention, and Diversity",
       "type": "conference",
       "author": "Philip M. Johnson, Carleton A. Moore, Peter Leong, Seungoh Paek",
@@ -264,7 +273,7 @@
       "title": "Using Degree Experience Plans to Improve Engagement, Retention, and Diversity of Undergraduates in Computer Science",
       "date": "",
       "awarder": "National Science Foundation",
-      "summary": "P. Johnson, Principal Investigator; Peter Leong, Seungoh Paek, Carleton Moore, Co-Principal Investigators $299,208. 2018"
+      "summary": "P. Johnson, Principal Investigator; Peter Leong, Seungoh Paek, Carleton Moore, Co-Principal Investigators $331,208. 2018"
     },
     {
       "type": "grant",
