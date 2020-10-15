@@ -143,6 +143,15 @@
   ],
   "publications": [
     {
+      "name": "Beyond course work: expanding what's valued in computer science degree programs",
+      "type": "journal",
+      "author": "Seungoh Paek, Peter Leong, Philip M. Johnson, and Carleton A. Moore",
+      "publisher": "Journal of Applied Research in Higher Education",
+      "releaseDate": "September, 2020",
+      "website": "http://csdl.ics.hawaii.edu/techreports/2020/20-08/20-08.pdf",
+      "summary": ""
+    },
+    {
       "name": "Design, Implementation, and Evaluation of Open Power Quality",
       "type": "journal",
       "author": "Anthony J. Christe, Sergey Negrashov, and Philip M. Johnson",
