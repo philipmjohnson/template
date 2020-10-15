@@ -2,23 +2,27 @@
 layout: essay
 type: essay
 published: true
-title: Ten ways to apply ICS 314 to upper division courses
-date: 2019-12-20
+title: Ten ways to integrate software engineering throughout the curriculum
+date: 2020-10-15
 labels:
   - Software Engineering
 ---
 
-ICS 314, Introduction to Software Engineering is part of the core curriculum and is a prerequisite to almost all upper division ICS courses.  However, the concepts and technologies taught in ICS 314 can easily decay or be lost altogether if they are never reinforced after that single semester.  The goal of this essay is to describe a variety of ways for teachers of upper division courses involving programming to easily integrate software engineering concepts taught in ICS 314. The hope is that by doing this, the students will gain deeper insight into software engineering, and that you as an instructor will obtain higher quality projects from your students without a lot of additional teaching on your part.
+ICS 314, Introduction to Software Engineering, is part of the core curriculum and is a prerequisite to almost all upper division ICS courses.  However, the concepts and technologies taught in ICS 314 can easily decay or be lost altogether if students never use them after that semester.  Recent reviews of ICS have indicated that students would benefit from an increased emphasis on software engineering.
 
-Here are ten recommendations. Even if you just incorporate a few of them, the improvement in retention and understanding of software engineering concepts in our students could be dramatic.
+A simple way to make software engineering a "cross-cutting concern" is to reinforce various software engineering concepts that they have already been exposed to in ICS 314.  This doesn't require you to acquire specialized software engineering expertise or teach students new skills in software engineering.
+
+This essay describes several ways for instructors of upper division courses to easily integrate software engineering concepts taught in ICS 314. This should be a win-win: the students will gain deeper insight into software engineering, and you will obtain higher quality projects from the students without additional teaching.
+
+Here are ten recommendations. Even if you adopt just a few of them, the improvement in retention and understanding of software engineering concepts could be significant.
 
   1. [Require JetBrains IDEs](#1-require-jetbrains-ides)
   2. [Require an automated coding standard](#2-require-an-automated-coding-standard)
   3. [Require GitHub for project repositories](#3-require-github-for-project-repositories)
   4. [Require project documentation, and use GitHub Pages](#4-require-project-documentation-and-use-github-pages)
   5. [Require team projects to use the IDPM agile development process](#5-require-team-projects-to-use-the-idpm-agile-development-process)
-  6. [Consider teaching ethical implications of your course topic](#6-consider-teaching-ethical-implications-of-your-course-topic)
-  7. [Encourage updates to their professional portfolio](#7-encourage-updates-to-their-professional-portfolio)
+  6. [Teach ethical implications of your course topic](#6-teach-ethical-implications-of-your-course-topic)
+  7. [Require updates to their professional portfolio](#7-require-updates-to-their-professional-portfolio)
   8. [Require user feedback and/or testing](#8-require-user-feedback-andor-testing)
   9. [Require a database if appropriate](#9-require-a-database-if-appropriate)
   10. [Consider delivering application functionality as a web app](#10-consider-delivering-application-functionality-as-a-web-app)
@@ -33,9 +37,11 @@ The one exception is if you are doing .NET and/or C# development: in that case V
 
 From a software engineering perspective, I do not believe it is in the best interest of the students to let them "use whatever IDE they want".  The IDE is, for a software engineer, analogous to the set of knives used by a chef: in both cases the tool is the most direct connection between the professional and their work product, and thus has a disproportionate impact on the quality and productivity of their work. The KCC culinary program does not let students use "whatever knives they want"; they require students to buy and use knives they have chosen as appropriate for a professional in training.
 
+If you decide to require them to use a different IDE, be sure that the benefits of that IDE outweigh the time that will be lost as they come up to speed using it.  It might be more efficient for them to increase their facility with JetBrains as applied to the material in your course.
+
 **How to do it:**
 
-Tell your students that they are required to use the appropriate JetBrains IDE for software development (or VS Code, if you're doing .NET or C#). Explain the advantages of using the required IDE over the alternatives, and that they can help each other better if they all use the same IDE. Periodically check during in-class development periods to see that they are using the required IDE, and use it yourself for in-class demos.
+Tell your students that they are required to use the appropriate JetBrains IDE for software development (or VS Code, if you're doing .NET or C#). Explain the advantages of using your chosen IDE over the alternatives, and that they can help each other better if they all use the same IDE. Periodically check during in-class development periods to see that they are using the required IDE, and use it yourself for in-class demos.
 
 If a student has forgotten about JetBrains, refer them to the [ICS 314 Development Environments module](http://courses.ics.hawaii.edu/ReviewICS314/modules/development-environments/).
 
@@ -50,7 +56,7 @@ Modern coding standard tools have gone way beyond surface syntax checking. For e
 <figcaption style="text-align: center">JetBrains IDE revealing an ESLint error</figcaption>
 </figure>
 
-Good coding standards do more than improve the quality of code: they actually help novices learn the language. When I was first coming up to speed in Javascript, ESLint taught me a lot about best practices.
+Good coding standards do more than improve the quality of code: they actually help novices learn the language. When I learned Javascript, ESLint taught me a lot about best practices.
 
 **How to do it:**
 
@@ -60,7 +66,7 @@ If a student has forgotten about coding standards, refer them to the [ICS 314 Co
 
 ## 3. Require GitHub for project repositories
 
-Several of the software engineering practices I teach in 314 (and recommend below) require the use of [GitHub](https://github.com/). Requiring students to use GitHub provides them with a cloud-based backup service for their code. More importantly, it provides public access to their work products. This is good for them, because the more high quality code they can show future employers that they've written, the more professionally attractive they become.  This is good for you, because you can encourage them to develop high quality projects not just so they get a good grade in your class, but also so that they have something interesting to show future employers.
+Several of the software engineering practices I teach in 314 (and recommend below) require the use of [GitHub](https://github.com/). Requiring students to use GitHub provides them with a cloud-based backup service for their code. It supports collaboration and team-based development. Finally, it provides public access to their work products. GitHub is good for them, because the more high quality code they can show future employers that they've written, the more professionally attractive they become.  GitHub is good for you, because you can encourage them to develop high quality projects not just so they get a good grade in your class, but also so that they have something interesting to show future employers.
 
 Note that GitHub has a [student developer pack](https://education.github.com/pack), which all ICS 314 students have been awarded. This comes with several dozen free developer services of potential benefit to your course.
 
@@ -71,7 +77,7 @@ Note that GitHub has a [student developer pack](https://education.github.com/pac
 
 **How to do it:**
 
-Tell your students that they will submit their code to you via a URL to a GitHub repository. Tell them that the project(s) they create in this course will improve their professional marketability (and of course make sure that this is true!) Utilize free services from the student developer pack if appropriate.
+Tell your students to submit their projects to you via a URL to a GitHub repository. Tell them that the project(s) they create in this course will improve their professional marketability (and of course make sure that this is true!) Utilize free services from the student developer pack if appropriate.
 
 If a student has forgotten about GitHub, refer them to the [ICS 314 Configuration Management module](http://courses.ics.hawaii.edu/ReviewICS314/modules/configuration-management/)
 
@@ -120,9 +126,9 @@ Here is a screenshot of a Project Board for Milestone 3 of the Bowfolios project
 
 The actual Project Board is found [here](https://github.com/bowfolios/bowfolios/projects/3#card-30908405). (The state of this board might have changed if I've done development on this project since the writing of this essay.)
 
-Students comment that prior to using IDPM, they had no effective, structured way to work with others that: (a) allowed for incremental, just-in-time planning; (b) enabled clear assignment of tasks and accountability; (c) facilitated concurrent development (through use of Git branching and merging); (d) made the status of development visible and clear (through Project Boards); and (e) provided a realistic  definition of "deliverable" for each intermediate Milestone due date.  Some claimed they would never have completed their team projects without IDPM.
+Students comment that prior to ICS 314 and IDPM, they had no effective, structured way to work with others that: (a) allowed for incremental, just-in-time planning; (b) enabled clear assignment of tasks and accountability; (c) facilitated concurrent development (through use of Git branching and merging); (d) made the status of development visible and clear (through Project Boards); and (e) provided a realistic  definition of "deliverable" for each intermediate Milestone due date.  Some claimed they would never have completed their team projects without IDPM.
 
-Note that IDPM is useful to you as an instructor, as it makes visible the organization of each team's development process, what they are planning to do, what each member is currently (supposed to be) working on, and some insight into what each member has accomplished.  It is painfully obvious, both to you and to the team, when a team member is not contributing anything.
+Note that IDPM is useful to you as an instructor, as it makes visible the organization of each team's development process, what they are planning to do, what each member is currently (supposed to be) working on, and some insight into what each member has accomplished.  IDPM makes it painfully obvious, both to you and to the team, when a team member is not contributing anything.
 
 All that said, IDPM is a nontrivial process, and not all students may feel competent with it after just a single exposure in 314.
 
@@ -134,7 +140,7 @@ Next, you'll need to structure your final project such that students are organiz
 
 Many students might feel "rusty" with IDPM if it has been a while since they've used it. That's to be expected: simply refer them to the [ICS 314 Agile Project Management module](http://courses.ics.hawaii.edu/ReviewICS314/modules/project-management/) to refresh their memory.
 
-## 6. Consider teaching ethical implications of your course topic
+## 6. Teach ethical implications of your course topic
 
 In student reviews of ICS 314, they frequently cite the material in the [ICS 314 Ethics module](http://courses.ics.hawaii.edu/ReviewICS314/modules/ethics/) as one of their most important learnings related to software engineering. This is very encouraging!
 
@@ -146,7 +152,7 @@ You can review the [ICS 314 Ethics module](http://courses.ics.hawaii.edu/ReviewI
 
 In ICS 314, I have students do a set of readings on a topic (in this past semester, it was about Facebook and data privacy), and then split into teams to debate the pro and con of a question (in this past semester, it was "Am I ethically obligated to delete my Facebook account?").  Assertions either pro or con should be backed up by reference to the Code of Ethics.  This format worked quite well and most students seemed to gain new insights into ethics as a result.
 
-## 7. Encourage updates to their professional portfolio
+## 7. Require updates to their professional portfolio
 
 All students in ICS 314 are required to create a professional portfolio using [TechFolios](http://techfolios.github.io/). One advantage of TechFolios is that it becomes straightforward to implement a script to aggregate together ICS student portfolios into a single site, which I've done and the results of which are available at [https://ics-portfolios.github.io/undergrads/](https://ics-portfolios.github.io/undergrads/).
 
@@ -161,11 +167,11 @@ On the last day of ICS 314, I encourage students to think about all of their fut
   1. The additional of one or more essays on a technical topic.
   2. The addition of one or more project pages, each of which overviews a project done during the course and the professional skills that the student acquired through that work. It also provides a link to the GitHub repository containing the code developed for the project.
 
-One way to help our students is to design your courses such that there is an "outcome" appropriate for inclusion in their professional portfolio, and then help them to make a high quality addition to their portfolio regarding this outcome.
+One way to help our students is to design your courses such that there is an "outcome" appropriate for inclusion in their professional portfolio, and then help them to make a high quality addition to their portfolio regarding this outcome. This has implications beyond software engineering.
 
 **How to do it:**
 
-This can be pretty simple. If your course involves the writing of a paper, then require them to submit that paper to you as a link to an essay in their professional portfolio.  Note that you may need to stress that this outcome should be written for a general audience, not just for the professor, and should not assume prior knowledge about the class.  (In my experience, these criteria usually increases the quality of the paper.)
+If your course involves the writing of a paper, then require them to submit that paper to you as a link to an essay in their professional portfolio.  Note that you may need to stress that this outcome should be written for a general audience, not just for the professor, and should not assume prior knowledge about the class.  (In my experience, these criteria usually increases the quality of the paper.)
 
 If your course involves the development of a project, then require them to submit their project to you as a link to a project page in their professional portfolio. Once again, you may need to stress that the documentation should be designed for a general audience, not just for you or for fellow class members.
 
@@ -193,10 +199,9 @@ If a student has forgotten how to create a database, you can refer them to the [
 
 ## 10. Consider delivering application functionality as a web app
 
-I leave this recommendation as the final one, because it is the most complicated one and is probably not applicable to many upper division ICS courses.  But, the most complete leveraging of ICS 314 material will occur if you require your students to build a web application as the interface to whatever domain-specific functionality you are teaching in your course.
+I leave this recommendation as the final one, because it is the most complicated one and may not be applicable to all upper division ICS courses.  But, the most complete leveraging of ICS 314 material will occur if you require your students to build a web application as the interface to whatever domain-specific functionality you are teaching in your course.
 
-In some cases, creating a browser-based interface to your course topic could be transformative to students in terms of understanding how to make that material broadly accessible to users. It might also be very useful to them in terms of their professional skill set and
-post-graduation marketability. Finally, it can simplify user evaluation.
+In some cases, creating a browser-based interface to your course topic could be transformative to students in terms of understanding how to make that material broadly accessible to users. It might also be very useful to them in terms of their professional skill set and post-graduation marketability. Finally, it can simplify user evaluation.
 
 **How to do it:**
 
