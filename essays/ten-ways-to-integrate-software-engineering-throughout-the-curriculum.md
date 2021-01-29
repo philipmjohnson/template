@@ -25,7 +25,7 @@ Here are ten recommendations. Even if you adopt just a few of them, the improvem
   7. [Require updates to their professional portfolio](#7-require-updates-to-their-professional-portfolio)
   8. [Require user feedback and/or testing](#8-require-user-feedback-andor-testing)
   9. [Require a database if appropriate](#9-require-a-database-if-appropriate)
-  10. [Consider delivering application functionality as a web app](#10-consider-delivering-application-functionality-as-a-web-app)
+  10. [Deliver application functionality as a cloud-based service](#10-deliver-application-functionality-as-a-cloud-based-service)
 
 ## 1. Require JetBrains IDEs
 
