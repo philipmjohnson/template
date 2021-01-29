@@ -197,15 +197,13 @@ Do not be dissuaded from requiring a database just because some students have no
 
 If a student has forgotten how to create a database, you can refer them to the [ICS 314 module on databases](http://courses.ics.hawaii.edu/ReviewICS314/modules/mongo/), which presents basic concepts of MongoDB databases, and the [ICS 314 module on deployment](http://courses.ics.hawaii.edu/ReviewICS314/modules/deployment/), which explains how to create free, cloud-based Mongo databases using Atlas.
 
-## 10. Consider delivering application functionality as a web app
+## 10. Deliver application functionality as a cloud-based service
 
-I leave this recommendation as the final one, because it is the most complicated one and may not be applicable to all upper division ICS courses.  But, the most complete leveraging of ICS 314 material will occur if you require your students to build a web application as the interface to whatever domain-specific functionality you are teaching in your course.
-
-In some cases, creating a browser-based interface to your course topic could be transformative to students in terms of understanding how to make that material broadly accessible to users. It might also be very useful to them in terms of their professional skill set and post-graduation marketability. Finally, it can simplify user evaluation.
+ICS 314 teaches students how to create and manage [Digital Ocean droplets](https://www.digitalocean.com/products/droplets/), which are very cheap ($5/month) virtual machines. In 314, these droplets are used to host a Meteor-based web application, but your course could use this skill for other purposes: for example, a web application built using some other tech stack, an online API providing a service or data collection endpoint, or any other application that benefits from online availability of cloud-based compute and storage resources.
 
 **How to do it:**
 
-If you are considering this recommendation, which I hope you will, it might be useful for us to have a conversation where I can learn about your course topic and we can strategize the best approach to providing a web application for it, and what pitfalls may occur for students based upon their learnings in ICS 314.
+If the student has forgotten how to use Digital Ocean droplets, you can refer them to the [ICS 314 module on deployment](http://courses.ics.hawaii.edu/ics314s21/modules/deployment/), which explains how to set up a droplet, how to provide it with a custom domain name (bought through a service like NameCheap), and how to set up HTTPS encryption.
 
 
 
