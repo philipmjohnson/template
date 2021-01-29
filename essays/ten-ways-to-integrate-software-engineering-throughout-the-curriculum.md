@@ -195,7 +195,7 @@ Hopefully, your situation will be better: by the time they have taken your cours
 
 Do not be dissuaded from requiring a database just because some students have not taken ICS 321.  As long as they have taken ICS 314, they are able to create databases.
 
-If a student has forgotten how to create a database, you can refer them to the [ICS 314 module on databases](http://courses.ics.hawaii.edu/ReviewICS314/modules/mongo/), which presents basic concepts of MongoDB databases, and the [ICS 314 module on deployment](http://courses.ics.hawaii.edu/ReviewICS314/modules/deployment/), which explains how to create free, cloud-based Mongo databases using Atlas.
+If a student has forgotten how to create a database, you can refer them to the [ICS 314 module on databases](http://courses.ics.hawaii.edu/ReviewICS314/modules/mongo/), which presents basic concepts of MongoDB databases.
 
 ## 10. Deliver application functionality as a cloud-based service
 
