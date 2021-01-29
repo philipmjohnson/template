@@ -183,7 +183,7 @@ If your course involves application development for users, it is a game changer 
 
 **How to do it:**
 
-The technology for testing and user experience assessment is quite contextual.  You will likely need to develop this material yourself. That said, you might find the ICS 314 modules on [testing](http://courses.ics.hawaii.edu/ReviewICS314/modules/testing/) and [usability evaluation](http://courses.ics.hawaii.edu/ReviewICS314/modules/usability-evaluation/) to be of use.
+The technology for testing and user experience assessment is quite contextual.  You will likely need to develop this material yourself. That said, you might find the ICS 314 modules on [testing](http://courses.ics.hawaii.edu/ics314s21/modules/testing/) and [usability evaluation](http://courses.ics.hawaii.edu/ReviewICS314/modules/usability-evaluation/) to be of use.
 
 ## 9. Require a database if appropriate
 
